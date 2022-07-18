@@ -4,6 +4,11 @@ Examples: https://medium.com/@labdheesheth/visualizing-geographical-data-using-g
 
 ![image](https://user-images.githubusercontent.com/35944883/179499090-73311840-ede9-479d-8ce0-975da581a083.png)
 
+Geospital
+![image](https://user-images.githubusercontent.com/35944883/179499213-2fb6f095-d194-40a3-9fa0-541859a4e963.png)
+
+
+
 geoplotlib is a python toolbox for visualizing geographical data and making maps
 
 ```python
