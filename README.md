@@ -1,3 +1,8 @@
+# Personal notes
+
+Examples: https://medium.com/@labdheesheth/visualizing-geographical-data-using-geoplotlib-d732953abcd5
+
+
 geoplotlib is a python toolbox for visualizing geographical data and making maps
 
 ```python
