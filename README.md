@@ -2,6 +2,7 @@
 
 Examples: https://medium.com/@labdheesheth/visualizing-geographical-data-using-geoplotlib-d732953abcd5
 
+![image](https://user-images.githubusercontent.com/35944883/179499090-73311840-ede9-479d-8ce0-975da581a083.png)
 
 geoplotlib is a python toolbox for visualizing geographical data and making maps
 
